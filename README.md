@@ -14,7 +14,7 @@
 
 - 👯 I’m looking for internships **opportunities on front-end development.**
 
-- 🤝 I’m looking for help peoples **to spread knowledge across my socials.**
+- 🤝 I’m looking to help peoples **to spread knowledge across my socials.**
 
 - 📫 How to reach me **mahwish07@gmail.com**
 
