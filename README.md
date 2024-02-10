@@ -1,4 +1,6 @@
-### Hi there 👋
+ Hi  👋 My name is Mahwish Akram Mughal 
+
+ Web Designer & Frontend Developer
 
 <!--
 **mahwish07/mahwish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
