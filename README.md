@@ -1,18 +1,17 @@
- Hi  👋 My name is Mahwish Akram Mughal 
+Hi  👋 My name is Mahwish Akram Mughal 
 
- Web Designer & Frontend Developer
+ ✨ Frontend Developer & Web Designer ✨
 
-<!--
-**mahwish07/mahwish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Experienced in designing and developing responsive and dynamic websites and web apps.Proficient with HTML5, CSS3, JavaScript along with modern libraries and frameworks.
 
-Here are some ideas to get you started:
+--> ✉️ You can contact me at mahwish07@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--> ⚡ I create content to spread knowledge across my socials.
+
+--> 🤝 I'm open to collaborating on my social media channels.
+
+--> 🤔 It’s good to learn from other’s mistakes, I wish people learn something from me.
+
+
+🔭 🌱 👯 🤔 📫 😄 ⚡ 
+
