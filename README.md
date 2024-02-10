@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahwish07&label=Profile%20views&color=0e75b6&style=flat" alt="mahwish07" /> </p>
 
-- 💬 Experienced in designing and developing responsive and dynamic websites. ✨Proficient with HTML5, CSS3, JavaScript along with modern libraries and frameworks✨.
+💬 Experienced in designing and developing responsive and dynamic websites.
+✨Proficient with HTML5, CSS3, JavaScript along with modern libraries and frameworks✨.
 
 - 🔭 I’m currently working on **Open Source Projects**
 
