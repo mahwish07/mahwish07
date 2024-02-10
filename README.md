@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking to help peoples **to spread knowledge across my socials.**
 
-- 📫 How to reach me **mahwish07@gmail.com**
+- 📫 How to reach me **mahwish.m07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
