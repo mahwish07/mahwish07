@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Open Source Projects**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking for internships **opportunities on front-end development.**
 
