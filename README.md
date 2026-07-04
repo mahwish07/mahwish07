@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,100:764ba2&text=Mehwish%20Akram&textBg=false&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Data%20%20Analyst%20|%20MIS%20Administrator%20|%20ML%20Enthusiast%20&rotate=0&stroke=ffffff&strokeWidth=1&section=header&reversal=false&fontAlign=45" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,100:764ba2&text=Mehwish%20A.%20Mughal&fontColor=ffff&fontSize=60&animation=fadeIn&fontAlignY=31&desc=Data%20Analyst%20|%20MIS%20Administrator%20|%20ML%20Enthusias%20&descSize=20&descAlignY=56" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=667EEA&vCenter=true&width=435&lines=Data+Analyst%F0%9F%93%8A%7CMIS+Administrator%F0%9F%93%88;Business+Analyst%7CMarketing+Executive;Web+Developer+%26+Web+Designer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%B1Python%7CSQL%7CPower+BI%7CTableau+%F0%9F%92%BC;DevOps+%26+Machine+Learning+Explorer%F0%9F%A4%96;Turning+coffee+%E2%98%95%F0%9F%93%8Ainto+insights+%F0%9F%9A%80;+Let%E2%80%99s+build+something+amazing!+%F0%9F%8C%90" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=667EEA&vCenter=true&width=435&lines=Data+Analyst%F0%9F%93%8A%7CMIS+Administrator%F0%9F%93%88;Business+Analyst%7CMarketing+Executive;Web+Developer+%26+Web+Designer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%B1Python%7CSQL%7CPower+BI%7CTableau+%F0%9F%92%BC;DevOps+%26+Machine+Learning+Explorer%F0%9F%A4%96;Turning+coffee+%E2%98%95%F0%9F%93%8Ainto+insights+%F0%9F%9A%80;+Let%E2%80%99s+build+something+amazing!+%F0%9F%8C%90" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -78,7 +77,10 @@ Transform complex data into clear, actionable insights that drive business decis
 
 </tr>
 </table>
+---
+
 <div align="center">
+  
 ### 🎨 My Data Analytics Journey
 
 ```mermaid
@@ -108,7 +110,7 @@ graph LR
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,r,js,mysql,html,css,java,c" alt="Programming Languages" />
 </p>
 
 ### 📊 Data & Analytics
@@ -144,10 +146,18 @@ graph LR
 
 ### 🧰 Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda,docker,linux,aws" alt="Developer Tools" />
+<div>
+  <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="50" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS" />
 </p>
-
 </div>
 
 ---
@@ -159,24 +169,24 @@ graph LR
 </div>
 
 ---
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=footer&fontSize=25&fontColor=fff&animation=twinkling&text=Thanks%20for%20Visiting!&fontAlignY=70" width="100%"/>
+<div align="left">
 
-<br/>
+# 🏆 Achievements & Certifications
 
-## 🏆 Achievements & Certifications
+</div>
 
 <div align="center">
 
 ### 🎓 Professional Certifications
+
+</div>
 
 <br/>
 
 <table>
   <tr>
     <td align="center">
-      <a href="hhttps://mahwish07.github.io/mahwish07/certificate/ title="View All Certificates">
+       <a href="https://mahwish07.github.io/mahwish07/certificate/" title="View All Certificates">
         <img src="https://img.shields.io/badge/📜_Total_Certificates-15-FFD700?style=for-the-badge&labelColor=1a1a2e&logo=google-scholar&logoColor=FFD700" height="60"/>
       </a>
     </td>
@@ -184,7 +194,7 @@ graph LR
   <tr>
     <td align="center">
       <br/>
-    <a href="hhttps://mahwish07.github.io/mahwish07/certificate/">
+        <a href="https://mahwish07.github.io/mahwish07/certificate/" title="View All Certificates">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="100" height="100" alt="Certificates"/>
       </a>
       <br/><br/>
@@ -193,7 +203,7 @@ graph LR
         <i>Click below to explore my complete certification portfolio</i>
       </p>
       <br/>
-      <a href="hhttps://mahwish07.github.io/mahwish07/certificate/">
+      <a href="https://mahwish07.github.io/mahwish07/certificate/" title="View All Certificates">
         <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-View_All_Certificates-FFD700?style=for-the-badge&labelColor=1a1a2e&logo=google-scholar&logoColor=FFD700" height="55"/>
       </a>
     </td>
@@ -204,6 +214,12 @@ graph LR
 
 ---
 
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=footer&fontSize=25&fontColor=fff&animation=twinkling&text=Thanks%20for%20Visiting!&fontAlignY=70" width="100%"/>
+
+<br/>
+
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
@@ -213,9 +229,31 @@ graph LR
 **⭐ If you like what you see, consider starring this repository! ⭐**
 
 <br/>
-<sub>Last Updated: April 2026 • Made by Mehwish Akram Mughal </sub>
+
+<!-- 
+  STAR BUTTON
+  Clicking this button takes the user directly to the repository page on GitHub.
+  GitHub does not allow starring a repo from outside the platform (requires user login and authentication).
+  The best approach is to redirect users to the repo page so they can star it themselves.
+-->
+<a href="https://github.com/mahwish07/mahwish07" title="⭐ Star This Repository">
+  <img src="https://img.shields.io/badge/⭐_Star_This_Repo-Click_Here!-yellow?style=for-the-badge&logo=github&logoColor=white" height="50" alt="Star Repository"/>
+</a>
+
+<br/>
+
+<!-- 
+  STAR COUNT BADGE
+  Uses shields.io to fetch the real-time star count from the GitHub API.
+  The "social" style shows the count even when it is zero (avoids "INVALID" label).
+  Clicking the badge opens the stargazers page of the repository.
+-->
+<a href="https://github.com/mahwish07/mahwish07/stargazers">
+  <img src="https://img.shields.io/github/stars/mahwish07?style=social" height="35" alt="Stars Count"/>
+</a>
+
+<sub>Last Updated: April 2026 • Made by Mehwish A. Mughal </sub>
 
 **💡 Remember:** *"The best way to predict the future is to analyze the data."* 📊✨
 
 </div>
-
