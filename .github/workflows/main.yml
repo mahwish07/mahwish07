@@ -1,0 +1,55 @@
+name: Certificates Counter - mahwish07
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Create certificates directory
+        run: mkdir -p certificates
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install jq -y
+
+      - name: Fetch certificates JSON
+        env:
+          TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+        run: |
+          curl -H "Authorization: token $TOKEN" \
+          -H "Accept: application/vnd.github.v3.raw" \
+          -L https://api.github.com/repos/mahwish07/my-certificates/contents/certificates.json \
+          -o certificates/certificates.json
+
+      - name: Check file
+        run: |
+          ls -la certificates/
+          cat certificates/certificates.json
+
+      - name: Count certificates
+        run: |
+          COUNT=$(jq length certificates/certificates.json)
+          echo "COUNT=$COUNT" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s|Certificates-[0-9]*-blue|Certificates-$COUNT-blue|g" README.md
+          sed -i "s|Total_Certificates-[0-9]*-FFD700|Total_Certificates-$COUNT-FFD700|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md certificates/certificates.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update certificates count to $COUNT"
+          git push
