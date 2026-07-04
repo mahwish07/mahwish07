@@ -187,7 +187,7 @@ graph LR
   <tr>
     <td align="center">
        <a href="https://mahwish07.github.io/mahwish07/certificate/" title="View All Certificates">
-        <img src="https://img.shields.io/badge/📜_Total_Certificates-15-FFD700?style=for-the-badge&labelColor=1a1a2e&logo=google-scholar&logoColor=FFD700" height="60"/>
+        <img src="https://img.shields.io/badge/📜_Total_Certificates-3-FFD700?style=for-the-badge&labelColor=1a1a2e&logo=google-scholar&logoColor=FFD700" height="60"/>
       </a>
     </td>
   </tr>
